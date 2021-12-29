@@ -2,23 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+_Raghavender B_
 
-[Link to another page](./another-page.html).
+Brief overview of the projects and experience as an AI and ML engineer.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Sentiment Analyzer
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Worked on developing sentiment analyzer solution. 
 
 ## Chatbot
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Devloped a chatbot for a Banking website to address loan related queries. 
 
 ### Header 3
 
